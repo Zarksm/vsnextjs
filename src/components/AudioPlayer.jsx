@@ -65,7 +65,6 @@ const AudioPlayer = ({ musicUrl, title, majlis, website, onNext }) => {
           audioRef.current.play();
         }
       }
-      console.log(website);
     };
 
     audioElement.addEventListener("timeupdate", updateTime);

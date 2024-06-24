@@ -22,7 +22,7 @@ export default function SimpleSlider() {
           key={item.id}
         >
           <p className="md:text-3xl">{item.text}</p>
-          <p className="md:text-xl mt-5">" {item.habib} "</p>
+          <p className="md:text-xl mt-5">{`" ${item.habib} "`}</p>
         </div>
       ))}
     </Slider>
