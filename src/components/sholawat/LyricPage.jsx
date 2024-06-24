@@ -1,10 +1,11 @@
 import Link from "next/link";
 import React from "react";
 import { FaArrowLeft } from "react-icons/fa6";
+import AudioPlayer from "../AudioPlayer";
 
 const LyricPage = ({ lyric }) => {
   return (
-    <div className="py-10">
+    <div className="pt-10 pb-20">
       <div className="main flex flex-col gap-4">
         <Link
           href={`/`}
@@ -16,6 +17,12 @@ const LyricPage = ({ lyric }) => {
           </div>
         </Link>
         <div className="p-5 bg-primary text-white rounded-lg">
+          <AudioPlayer
+            musicUrl={lyric.music_url}
+            title={lyric.title}
+            majlis={lyric.majlis}
+            website={lyric.website}
+          />
           <div className="py-10">
             {lyric.lyrics.map((line, index) => (
               <div key={index}>

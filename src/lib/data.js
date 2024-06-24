@@ -385,7 +385,7 @@ export const SholawatLyric = [
                     "translation": "Ahmad (saw) yg suci dan keluarganya, serta Para shohabatnya dengan Sholawat yang selalu bercahaya terang benderang."
                   },
                 ],
-              "music_url": "../assets/Audio/MahalulQiyam.mp3"
+              "music_url": "../../../../assets/Audio/MahalulQiyam.mp3"
             },
             // Sholawat Badr
             {
@@ -428,7 +428,7 @@ export const SholawatLyric = [
                   latin: "Washalli 'Alan Nabil Barri Bilaa 'Addin Walaa Hashri, Wa Aali Saadatin Ghurri Bi Ahlil Badri Yaa Allaah.",
                   translation: "Dan semoga Engkau melimpahkan rahmat kepada Nabi yang senantiasa berbakti kepada-Mu dengan limpahan rahmat dan kesejahteraan yang tak terbilang dan tak terhitung. Dan semoga tetap atas para keluarga Nabi dan para Sayyid yang bersinar cahayanya, karena berkahnya ahli badar ya Allah."
               },],
-              music_url: "../assets/Audio/Badr.mp3"
+              music_url: "../../../../assets/Audio/Badr.mp3"
             },
              // Qosidah Ya Arhama Rohimin
             {
@@ -530,7 +530,7 @@ export const SholawatLyric = [
                     "translation": "Dan limpahkan sholawat dan salâm atas sang pembawa Syafa’at bagi manusia, dan atas keluarga beliau semulia mulia orang yang mulia, dan para shahabat dan tabi’in."
                   },
                 ],
-              "music_url": "../assets/Audio/YaArhamarrahimin.mp3"
+              "music_url": "../../assets/Audio/YaArhamarrahimin.mp3"
             },  
             // Qosidah Ya Rasulullah Salamun Alaik
             {
@@ -577,7 +577,7 @@ export const SholawatLyric = [
                   latin: "Wa amitnaa fiy thoriiqotihim, Wa mu’aafatin minal fitani",
                   translation: "Dan wafatkanlah kami dalam Thoriqat mereka dan terlindungi dari fitnah keduniawian..."
               },],
-              music_url: "../assets/Audio/YaRasulullah.mp3"
+              music_url: "../../assets/Audio/YaRasulullah.mp3"
             },
             // Qosidah Yartah Qolbi
             {
@@ -684,7 +684,7 @@ export const SholawatLyric = [
                   latin: "Wa man tabi’hum dakhol fîl firqotil ghônimah",
                   translation: "Beserta para pengikutnya yang masuk dalam kelempok orang orang yang berhasil mendapatkan kebajikan"
               },],
-              music_url: "../assets/Audio/YartaQolbi.mp3"
+              music_url: "../../assets/Audio/YartaQolbi.mp3"
             },
             // Qosidah Muhammadun
             {
@@ -734,7 +734,7 @@ export const SholawatLyric = [
                     "translation" : "Muhammad pada hari bangkitnya seluruh manusia, pemberi kami syafaat, Muhammad cahanya merupakan petunjuk dari kegelapan"
                   },       
                 ],       
-                "music_url": "../assets/Audio/Muhammadun.mp3"
+                "music_url": "../../assets/Audio/Muhammadun.mp3"
             }, 
             // Qasidah Waktu Sahar
             {
@@ -780,7 +780,7 @@ export const SholawatLyric = [
                   "translation": "Dan segala puji bagi Allah Tuhanku, Yang Maha Melindungi kami dengan kecukupan."
               }
               ],
-              "music_url": "../assets/Audio/WaktuSahar.mp3"
+              "music_url": "../../assets/Audio/WaktuSahar.mp3"
             },
             // Qasidah Ya Robba Makkata Shofa
             {
@@ -903,7 +903,7 @@ export const SholawatLyric = [
                     "translation": "Sebanyak hembusan angin di pagi hari yang menusuk ranting-ranting kami."
                 }
             ],
-            "music_url": "../assets/Audio/YaRobamma.mp3"
+            "music_url": "../../assets/Audio/YaRobamma.mp3"
             },
             // Qasidah Ya Dzakirin
             {
@@ -1030,7 +1030,7 @@ export const SholawatLyric = [
                       "translation": "Kami dilimpahi dengan cangkir-cangkir luhurnya, maka cukuplah bagi kami cukuplah bagi kami Allah semulia-mulia pemberi kecukupan. "
                     },
                   ],
-                "music_url": "../assets/Audio/YaDzakirin.mp3"
+                "music_url": "../../assets/Audio/YaDzakirin.mp3"
             },
             // Qasidah Marhaban Ya Ramadhan
             {
@@ -1100,7 +1100,7 @@ export const SholawatLyric = [
                     "translation": "Selalu terlimpah pada sang kebanggaan keturunan Adnan (Sayyidina Muhammad saw)."
                   },
                 ],          
-                "music_url": "../assets/Audio/MarhabanYaRamadhan.mp3"
+                "music_url": "../../assets/Audio/MarhabanYaRamadhan.mp3"
             },   
             // Qasidah Sholatullahi Taghsyakum
             {
@@ -1170,7 +1170,7 @@ export const SholawatLyric = [
                     "translation": "Maka tiadalah selain kalian orang yang lebih bermurah hati"
                   },
                 ],          
-                "music_url": "../assets/Audio/SholatullahiTaghsyakum.mp3"
+                "music_url": "../../assets/Audio/SholatullahiTaghsyakum.mp3"
             },
             // Qasidah Yaa Ahlal Irodah Bada
             {
@@ -1312,7 +1312,7 @@ export const SholawatLyric = [
                   "translation": ""
                 },
               ],          
-              "music_url": "../assets/Audio/YaaAhlalIrodahBada.mp3"
+              "music_url": "../../assets/Audio/YaaAhlalIrodahBada.mp3"
             },
             // Qosidah Ala Ya Allah Binadzroh
             {
@@ -1514,7 +1514,7 @@ export const SholawatLyric = [
                     "translation": "Kepada mereka dengan penuh perhatian maka semua permintaannya akan dimudahkan."
                   },                
                 ],
-              "music_url": "../assets/Audio/AlaYaAllahBinadzroh.mp3"
+              "music_url": "../../assets/Audio/AlaYaAllahBinadzroh.mp3"
             },
             // Qosidah Allahu Anallah Qod Kafani
             {
@@ -1661,7 +1661,7 @@ export const SholawatLyric = [
                     "translation": "Allah Allah, Allah Allah, Allah Allah Allah Allah..Setiap kali kumemanggil: wahai Dia (ALLAH), maka Dia menjawab: Wahai Hamba Ku, Akulah Allah."
                   },
                 ],
-              "music_url": "../assets/Audio/AllahuAnallahQodKafani.mp3"
+              "music_url": "../../assets/Audio/AllahuAnallahQodKafani.mp3"
             },
             // Qosidah Qul Lilladzi Qod Lamani
             {
@@ -1923,7 +1923,7 @@ export const SholawatLyric = [
                   "translation": "Katakanlah padaku apa yang kau inginkan, wahai orang yang suka membuang buang waktu!"
                 }
               ],
-              "music_url": "../assets/Audio/QuLilladzi.mp3"
+              "music_url": "../../assets/Audio/QuLilladzi.mp3"
             },
             // Qosidah Ilahi Lastu (I’tiraf)
             {
@@ -1990,7 +1990,7 @@ export const SholawatLyric = [
                     "translation": "Tetapi jika Engkau tolak maka kepada siapa lagi aku berharap?"
                 }
             ],
-              "music_url": "../assets/Audio/Al-I’tiraf.mp3"
+              "music_url": "../../assets/Audio/Al-I’tiraf.mp3"
             },
             
       ]
@@ -2016,7 +2016,7 @@ export const SholawatLyric = [
                 "translation": "Ya Allah curahkanlah rahmat kepada pimpinannya para pemimpin dan tujuan-tujuan dan keinginan-keinginan dan seluruh yang ada di alam semesta ini yaitu kekasih-Mu Nabi Muhammad yang paling Mulia, sekaligus cahaya- Mu yang paling Agung. Semoga sholawat dan salam tercurahkan pula kepada keluarga serta para sahabat-sahabatnya."
               },
             ],
-          "music_url": "../assets/Audio/sayyidisadat.mp3"
+          "music_url": "../../assets/Audio/sayyidisadat.mp3"
         },
         // sholawat Waktu Sahar
         {
@@ -2151,7 +2151,7 @@ export const SholawatLyric = [
               }
             },
             ],      
-          "music_url": "../../assets/Audio/waktusaharNM.mp3"
+          "music_url": "../../../../assets/Audio/waktusaharNM.mp3"
         },
         // sholawat Yaa Dzaljalali wal ikrom
         {
@@ -2374,7 +2374,7 @@ export const SholawatLyric = [
               }
             },
             ],      
-          "music_url": "../../assets/Audio/YaaDzaljalaliWalIkrom.mp3"
+          "music_url": "../../../../assets/Audio/YaaDzaljalaliWalIkrom.mp3"
         }
       ]
     },

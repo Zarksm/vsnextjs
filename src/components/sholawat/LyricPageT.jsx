@@ -1,9 +1,27 @@
+import Link from "next/link";
 import React from "react";
+import { FaArrowLeft } from "react-icons/fa6";
+import AudioPlayer from "../AudioPlayer";
 
 const LyricPageT = ({ lyric }) => {
   return (
-    <div className="w-full lg:px-52 pt-10 pb-20 shadow-xl select-none">
-      <div className="bg-lprimary dark:bg-primary p-5 md:p-10 rounded-sm border-t border-white rounded-b-lg">
+    <div className="w-full main select-none pt-10 pb-20 flex flex-col gap-3">
+      <Link
+        href={`/`}
+        className="bg-primary text-white rounded-lg py-4 cursor-pointer"
+      >
+        <div className="flex justify-between items-center px-6 ">
+          <FaArrowLeft />
+          <h1 className="text-md">{lyric.title}</h1>
+        </div>
+      </Link>
+      <div className="bg-lprimary dark:bg-primary p-5 md:p-10 rounded-lg">
+        <AudioPlayer
+          musicUrl={lyric.music_url}
+          title={lyric.title}
+          majlis={lyric.majlis}
+        />
+
         <div className="mt-20 dark:text-white notranslate">
           {lyric.lyrics.map((item, index) => (
             <div
