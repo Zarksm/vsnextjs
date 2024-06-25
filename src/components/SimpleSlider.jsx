@@ -8,7 +8,7 @@ import { SliderHero } from "@/lib/constant";
 export default function SimpleSlider() {
   var settings = {
     infinite: true,
-    speed: 500,
+    speed: 1000,
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,

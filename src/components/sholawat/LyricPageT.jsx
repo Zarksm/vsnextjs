@@ -16,11 +16,14 @@ const LyricPageT = ({ lyric }) => {
         </div>
       </Link>
       <div className="bg-lprimary dark:bg-primary p-5 md:p-10 rounded-lg">
-        <AudioPlayer
-          musicUrl={lyric.music_url}
-          title={lyric.title}
-          majlis={lyric.majlis}
-        />
+        <div className="sticky top-16 z-40 w-full">
+          <AudioPlayer
+            musicUrl={lyric.music_url}
+            title={lyric.title}
+            majlis={lyric.majlis}
+            website={lyric.website}
+          />
+        </div>
 
         <div className="mt-20 dark:text-white notranslate">
           {lyric.lyrics.map((item, index) => (
