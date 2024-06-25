@@ -8,7 +8,7 @@ const EachCard = ({ majelis, lyrics }) => {
           prefetch={false}
           key={index}
           href={`/sholawat/${majelis}/${data.id}`}
-          className="p-2 rounded-md border border-transparent bg-secondary text-white font-Quisand text-sm cursor-pointer w-full md:w-fit hover:bg-transparent anim hover:border-secondary"
+          className="p-2 rounded-md border border-transparent bg-lmode dark:bg-secondary dark:text-white font-Quisand text-sm cursor-pointer w-full md:w-fit hover:bg-transparent anim hover:border-secondary"
         >
           {data.title}
         </Link>

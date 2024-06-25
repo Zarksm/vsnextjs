@@ -20,7 +20,7 @@ const SholawatCard = () => {
             className="flex justify-between items-center p-2 cursor-pointer border border-gray-700 rounded"
             onClick={() => handleToggle(index)}
           >
-            <p className="text-white">{data.majelis}</p>
+            <p className="dark:text-white">{data.majelis}</p>
             {activeIndex === index ? (
               <FaChevronUp className="text-white" />
             ) : (
@@ -32,7 +32,7 @@ const SholawatCard = () => {
               activeIndex === index ? "max-h-screen" : "max-h-0"
             }`}
           >
-            <div className="py-2 border-t border-gray-600 flex flex-wrap justify-center gap-4">
+            <div className="py-2 flex flex-wrap justify-center gap-4">
               <EachCard majelis={data.majelis} lyrics={data.lyrics} />
             </div>
           </div>

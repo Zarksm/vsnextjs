@@ -42,6 +42,7 @@ export default {
         'lwhite': '#ffffff',
 
         // Light Theme
+        'lmode' : '#f2f2f7',
         'lprimary' : '#FFFFFF',
         'lsecondary' : "#eeeeee",
         'greenlight' : '#EBF9FA',

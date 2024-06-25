@@ -35,7 +35,7 @@ const LyricDetail = () => {
     );
   }
   return (
-    <div className="bg-secondary h-auto">
+    <div className="bg-white dark:bg-secondary h-auto">
       {lyric.v === false || lyric.v === undefined ? (
         <LyricPage lyric={lyric} />
       ) : (

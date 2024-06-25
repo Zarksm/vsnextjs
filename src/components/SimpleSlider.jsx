@@ -18,7 +18,7 @@ export default function SimpleSlider() {
     <Slider {...settings}>
       {SliderHero.map((item) => (
         <div
-          className="text-center py-20 md:px-20 md:py-40 text-white font-Quisand flex"
+          className="text-center py-20 md:px-20 md:py-40 dark:text-white font-Quisand flex"
           key={item.id}
         >
           <p className="md:text-3xl">{item.text}</p>

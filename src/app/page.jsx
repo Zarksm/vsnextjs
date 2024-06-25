@@ -10,8 +10,8 @@ export default function Home() {
         <CSliders />
 
         {/* card */}
-        <div className="w-full h-auto py-5 bg-primary rounded-lg">
-          <h2 className="text-white font-Quisand font-semibold text-2xl p-5">
+        <div className="w-full h-auto py-5 bg-transparent border border-primary dark:bg-primary rounded-lg shadow-xl dark:shadow-transparent">
+          <h2 className="text-primary dark:text-white font-Quisand font-semibold text-2xl p-5">
             Kumpulan Sholawat dan Lirik Qosidah
           </h2>
 

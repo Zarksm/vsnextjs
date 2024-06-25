@@ -9,7 +9,7 @@ const LyricPage = ({ lyric }) => {
       <div className="main flex flex-col gap-4">
         <Link
           href={`/`}
-          className="bg-primary text-white rounded-lg py-4 cursor-pointer"
+          className="bg-lmode dark:bg-primary dark:text-white rounded-lg py-4 cursor-pointer"
         >
           <div className="flex justify-between items-center px-6">
             <FaArrowLeft />
@@ -17,7 +17,7 @@ const LyricPage = ({ lyric }) => {
           </div>
         </Link>
 
-        <div className="p-5 bg-primary text-white rounded-lg">
+        <div className="p-5 bg-lmode dark:bg-primary dark:text-white rounded-lg">
           <div className="sticky top-16 z-40 w-full">
             <AudioPlayer
               musicUrl={lyric.music_url}
