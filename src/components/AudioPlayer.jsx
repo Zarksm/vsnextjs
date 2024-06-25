@@ -75,7 +75,7 @@ const AudioPlayer = ({ musicUrl, title, majlis, website, onNext }) => {
   }, [onNext, isRepeated]);
 
   return (
-    <div className="py-4 px-6 rounded-lg shadow-2xl border border-slate-400  sticky top-0 bg-white dark:bg-primary w-full dark:text-white">
+    <div className="py-4 px-6 rounded-lg shadow-2xl border border-slate-400  sticky top-0 bg-white dark:bg-primary w-full dark:text-white font-Quisand">
       <div className="flex items-center justify-between">
         <div className="flex items-center w-full">
           {musicUrl ? (
@@ -83,7 +83,7 @@ const AudioPlayer = ({ musicUrl, title, majlis, website, onNext }) => {
               className={`w-12 h-12 flex items-center justify-center rounded-full cursor-pointer hover:text-greenl transition-all`}
               onClick={handlePlayPauseClick}
             >
-              {isPlaying ? <FaPause size={24} /> : <FaPlay size={24} />}
+              {isPlaying ? <FaPause size={18} /> : <FaPlay size={18} />}
             </div>
           ) : (
             ""

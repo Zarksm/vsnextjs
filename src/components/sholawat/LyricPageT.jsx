@@ -2,6 +2,7 @@ import Link from "next/link";
 import React from "react";
 import { FaArrowLeft } from "react-icons/fa6";
 import AudioPlayer from "../AudioPlayer";
+import BackToTop from "../BackToTop";
 
 const LyricPageT = ({ lyric }) => {
   return (
@@ -51,6 +52,7 @@ const LyricPageT = ({ lyric }) => {
           ))}
         </div>
       </div>
+      <BackToTop />
     </div>
   );
 };

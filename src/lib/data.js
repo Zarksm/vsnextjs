@@ -220,7 +220,7 @@ export const SholawatLyric = [
             {
               id: 1,
               title: "Mahalul Qiyam",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -391,7 +391,7 @@ export const SholawatLyric = [
             {
               id: 2,
               title: "Sholawat Badr",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -434,7 +434,7 @@ export const SholawatLyric = [
             {
               id: 3,
               title: "Ya Arhamarrahimin",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -536,7 +536,7 @@ export const SholawatLyric = [
             {
               id: 4,
               title: "Ya Rasulullah Salamun Alaik",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -583,7 +583,7 @@ export const SholawatLyric = [
             {
               id: 5,
               title: "Yaartah Qolbi",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "Qosidah Karangan Al Habib Umar bin Muhammad bin Salim bin Hafidh",
               sumber: "Kitab Maulid Adhiyaa'ulaami'",
@@ -690,7 +690,7 @@ export const SholawatLyric = [
             {
                 id: 6,
                 title: "Muhammadun",
-                majlis: "Majelis Rasulullah SAW",
+                majlis: "majelisrasulullah.org",
                 website: "https://www.majelisrasulullah.org/",
                 lyrics: [
                   {
@@ -1318,7 +1318,7 @@ export const SholawatLyric = [
             {
               id: 13,
               title: "Ala Ya Allah Binadzroh",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -1520,7 +1520,7 @@ export const SholawatLyric = [
             {
               id: 14,
               title: "Allahu Anallah Qod Kafani",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -1667,7 +1667,7 @@ export const SholawatLyric = [
             {
               id: 15,
               title: "Qul Lilladzi Qod Lamani",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -1929,7 +1929,7 @@ export const SholawatLyric = [
             {
               id: 16,
               title: "Ilahi Lastu (I’tiraf)",
-              majlis: "Majelis Rasulullah SAW",
+              majlis: "majelisrasulullah.org",
               website: "https://www.majelisrasulullah.org/",
               ket: "",
               sumber: "",
@@ -2004,7 +2004,7 @@ export const SholawatLyric = [
          {
           id: 1,
           title: "Sholawat Sayyidi Sadat",
-          majlis: "Majelis Nurul Musthofa",
+          majlis: "nurulmusthofa.org",
           website: "https://nurulmusthofa.org",
           ket: "Sholawat ini langsung dari Nabi Muhammad SAW melalui mimpi dari guru kita al Habib Hasan bin Ja'far Assegaf.",
           sumber: "",
@@ -2022,7 +2022,7 @@ export const SholawatLyric = [
         {
           id: 2,
           title: "Waktu Sahar",
-          majlis: "Majelis Nurul Musthofa",
+          majlis: "nurulmusthofa.org",
           website: "https://nurulmusthofa.org/",
           ket: "--",
           sumber: "",
@@ -2157,7 +2157,7 @@ export const SholawatLyric = [
         {
           id: 3,
           title: "Yaa Dzaljalali Wal Ikrom",
-          majlis: "Majelis Nurul Musthofa",
+          majlis: "nurulmusthofa.org",
           website: "https://nurulmusthofa.org/",
           ket: "--",
           sumber: "",

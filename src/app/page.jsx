@@ -12,7 +12,7 @@ export default function Home() {
         {/* card */}
         <div className="w-full h-auto py-5 bg-primary rounded-lg">
           <h2 className="text-white font-Quisand font-semibold text-2xl p-5">
-            Kumpulan Sholawat dan Lyric Qosidah
+            Kumpulan Sholawat dan Lirik Qosidah
           </h2>
 
           <SholawatCard />

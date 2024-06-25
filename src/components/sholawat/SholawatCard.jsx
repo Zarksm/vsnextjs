@@ -32,7 +32,7 @@ const SholawatCard = () => {
               activeIndex === index ? "max-h-screen" : "max-h-0"
             }`}
           >
-            <div className="p-4 border-t border-gray-600 flex flex-wrap justify-center gap-4">
+            <div className="py-2 border-t border-gray-600 flex flex-wrap justify-center gap-4">
               <EachCard majelis={data.majelis} lyrics={data.lyrics} />
             </div>
           </div>
